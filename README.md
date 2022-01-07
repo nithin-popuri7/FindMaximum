@@ -27,18 +27,14 @@ def max_marks(marks):
 ```
 
 ii)	# To find the maximum marks using the list method max().
-''' 
+```
 Program to the maximum marks without using builtin functions.
 Developed by:Popuri.Siva Naga Nithin
 Reference.No:21003942
-'''
 def max_marks(marks):
     maxi = max(marks)
     return maxi
-
-
-
-```
+ ```
 
 iii) # To find the maximum marks without using builtin functions.
 ''' 
