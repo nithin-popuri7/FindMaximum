@@ -61,9 +61,9 @@ def max_marks(list1):
 
 ## Output:
 1)# To find the maximum of marks using the list method sort.
-![Github logo](Ex 07)(1).png
+![Github logo](Ex 07).png
 2)	# To find the maximum marks using the list method max().
-![Github logo](Ex o7)(2).png
+![Github logo](Ex o7).png
 3)# To find the maximum marks without using builtin functions.
 ![github logo](Ex 07).png
 
