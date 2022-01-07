@@ -49,11 +49,11 @@ def max_marks(list1):
 
 ## Output:
 i)# To find the maximum of marks using the list method sort.
-![Github logo](Ex 7.png)
+![Github logo](Ex7.png)
 ii)	# To find the maximum marks using the list method max().
-![Github logo](Ex 7.png)
+![Github logo](Ex7.png)
 iii)# To find the maximum marks without using builtin functions.
-![Github logo](Ex 7.png)
+![Github logo](Ex7.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
